@@ -5,7 +5,7 @@ import { Link, useParams } from 'react-router-dom';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 import 'swiper/css'; // Make sure Swiper CSS is imported
-import useApi from '../Hooks/Useapi';
+import useApi from '../Hooks/UseApi';
 import { cartContext } from '../Context/CartContext';
 import toast from 'react-hot-toast';
 
