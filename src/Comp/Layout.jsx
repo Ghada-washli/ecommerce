@@ -9,8 +9,8 @@ export default function Layout() {
         <>
 
             <Navbar />
-            <div className=' bg-gray-50'>
-                <div className=' pt-44 container m-auto max-w-7xl min-h-screen '>
+            <div className=' bg-gray-50 min-h[3000px]'>
+                <div className=' pt-44 container m-auto max-w-7xl  '>
                     <Outlet />
                 </div>
 
