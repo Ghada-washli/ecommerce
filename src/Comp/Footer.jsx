@@ -5,7 +5,7 @@ import logo from '../assets/images/light.png'
 export default function Footer() {
     return (
         <>
-            <footer className="w-full bg-main-color mt-10 fixed z-[30] bottom-0 right-0 left-0 ">
+            <footer className="w-full bg-main-color ">
                 <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
 
                     <div className="py-16 flex justify-between items-center flex-col gap-8 lg:flex-row">
